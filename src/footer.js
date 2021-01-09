@@ -6,7 +6,7 @@ class Footer extends Component {
     render() { 
         return ( 
             <React.Fragment>
-                    <div id="footer" class="footer-copyright text-cente">
+                    <div class="bg-dark text-white footer-copyright text-center">
                         2020 © Copyright :
                         all rights reserved<br></br>
                         Design & Developed By <a href="https://balaramgayen.blogspot.com/" target="blank">Balaram Gayen</a><br></br>
